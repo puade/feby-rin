@@ -74,7 +74,7 @@ body, html {
   height: 100%; /* Sesuaikan tinggi dengan tinggi frame */
   object-fit: cover; /* Menjaga proporsi gambar agar sesuai dengan ukuran frame */
   z-index: 1; /* Agar GIF berada di belakang konten */
-  opacity: 20%;
+  opacity: 50%;
   mix-blend-mode: screen; /* Membuat efek transparan seperti mode screen */
 }
 
